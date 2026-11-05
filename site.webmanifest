@@ -1,0 +1,13 @@
+{
+  "name": "Strykon Sports & Infrastructure",
+  "short_name": "Strykon",
+  "description": "Sports courts, synthetic turf, solar power projects, buildings and interiors in Hyderabad.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#002a54",
+  "icons": [
+    { "src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
